@@ -19,7 +19,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/212-128x120-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/212-128x120-2.png",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -92,7 +92,7 @@
           "_anchor": "header4-a",
           "_styles": {
             "H1": {
-              "color": "#000000"
+              "color": "#0c0737"
             },
             "P": {
               "color": "#5bc0de"
