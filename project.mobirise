@@ -9,7 +9,9 @@
       "nameSelectPreset": "landing",
       "additionalSetColors": [
         "#06f906",
-        "#0c0737"
+        "#0c0737",
+        "#1c8f08",
+        "#fdffff"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -42,7 +44,7 @@
     },
     "google-analytics": "<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n\n",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "uniqCompNum": 15,
+    "uniqCompNum": 16,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -442,6 +444,47 @@
             }
           },
           "_anchor": "msg-box2-c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fdffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>От</b> меня <b>ПОДАРОК &nbsp;3D</b>",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://is.gd/PuourC\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-gift mbr-iconfont mbr-iconfont-btn\"></span>SURPRISE</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-f",
+          "_styles": {
+            "H2": {
+              "color": "#1c8f08"
+            },
+            ".btn": {
+              "font-size": "25px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          }
         },
         {
           "_params": {

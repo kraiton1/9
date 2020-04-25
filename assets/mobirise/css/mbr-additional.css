@@ -73,6 +73,7 @@
 
 
 
+
 #header4-a H1 {
   color: #06f906;
 }
@@ -95,6 +96,13 @@
 #msg-box2-c B {
   font-size: 30px;
   font-family: 'Roboto Slab', serif;
+}
+#msg-box1-f H2 {
+  color: #1c8f08;
+}
+#msg-box1-f .btn {
+  font-size: 25px;
+  font-family: 'Playfair Display', sans-serif;
 }
 #form2-d .btn {
   font-size: 15px;
