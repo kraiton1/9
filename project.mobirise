@@ -19,11 +19,11 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/212-128x120-2.png",
+    "favicon": "@PROJECT_PATH@/assets/images/212-128x120-1.png",
     "robotsSwitcher": true,
-    "sitemapSwitcher": true,
+    "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://kraiton1.github.io/9/07.html",
+    "siteUrl": false,
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -42,7 +42,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "google-analytics": "<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n\n<!-- Yandex.Metrika counter --> <script type=\"text/javascript\" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\"); ym(62297524, \"init\", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); </script> <!-- /Yandex.Metrika counter -->",
+    "google-analytics": "<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n\n<!-- Yandex.Metrika counter --> <script type=\"text/javascript\" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\"); ym(62193943, \"init\", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); </script> <!-- /Yandex.Metrika counter -->",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "uniqCompNum": 16,
     "versionPublish": "4.12.3",
@@ -375,7 +375,7 @@
           },
           "title": "КЛУБ <br>ПАРТНЕРОВ ЕВГЕНИЯ ВЕРГУСА\n<div><br></div>",
           "text": "<b>&nbsp;✅ самые продвинутые техники заработка на партнерских программах&nbsp;<br>✅самые актуальные видеоуроки по работе с партнерками с разбором технических моментов&nbsp;<br>✅лучший опыт с разбором успешных кейсов<br>✅готовые мини-воронки продаж для участников\n<br>✅закрытый телеграм-чат единомышленников<br>✅ежемесячные онлайн-встречи с ответами на вопросы</b><br><br><b>&nbsp;Вы сможете гарантированно заработать по готовым методикам<br>Вы не будете тратить впустую свое время и выкидывать деньги на ветер<br>Вы сможете всегда проверить свою идею на ее реальность</b><br><b><br></b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vk.com/1kraiton\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>ONE STEP </a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vk.cc/atfCbm\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>ONE STEP </a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
