@@ -1,0 +1,520 @@
+{
+  "settings": {
+    "currentPage": "07.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "titlePreset": "Landing Page",
+      "nameSelectPreset": "landing",
+      "additionalSetColors": [
+        "#06f906",
+        "#0c0737"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "name": "Len1",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/212-128x120-1.png",
+    "robotsSwitcher": true,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "YES"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "google-analytics": "<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "uniqCompNum": 15,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "8.html": {
+      "settings": {
+        "main": true,
+        "title": "ip",
+        "meta_descr": " сервис по увеличению посещаемости сайта и поднятию его в различных рейтингах увеличению кликов по рекламным баннерам и ссылкам \nулучшению позиций в голосованиях и опросах \nувеличению лайков и подписчиков в социальных сетях ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1282.jpeg"
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lance-anderson-qdaaasrzhdk-unsplash-2000x1333.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.8"
+          },
+          "title": "SERVICE <br>for <br>earning MONEY",
+          "text": "<b>&nbsp;сервис по увеличению посещаемости сайта и поднятию его в различных рейтингах увеличению кликов по рекламным баннерам и ссылкам \n<br>улучшению позиций в голосованиях и опросах \n<br>увеличению лайков и подписчиков в социальных сетях</b>&nbsp;<br><b>Проект работает в сети  с 2003 года</b><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://is.gd/eGBgbO\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATION</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-a",
+          "_styles": {
+            "H1": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#5bc0de"
+            },
+            "B": {
+              "font-size": "23px"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": false,
+            "showBio": false,
+            "count": "6",
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "Что &nbsp;говорят &nbsp;разработчики<br>о сервисе",
+          "items": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "",
+              "text": "<div><i><b>В сервисе существуют два типа пользователей\n</b></i></div><div><i><b>&nbsp;</b></i></div><div><b>РЕКЛАМОДАТЕЛИ</b></div><div><i><b>это те \n</b></i></div><div><i><b>кто заказывает услуги в сервисе и платит за это деньги</b></i></div><div><i><b><br></b></i></div><div><i><b>\n</b></i></div><div><i><b>\n</b></i></div><div><b>ИСПОЛНИТЕЛИ</b></div><div><i><b>это те \n</b></i></div><div><i><b>кто выполняют задания рекламодателей \n</b></i></div><div><i><b>получая за это </b></i></div><div><i><b>оплату</b></i></div>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><i><b>ИСПОЛНИТЕЛЯМ </b></i></span></font><i><b>предлагаем &nbsp;мы дополнительный заработок на просмотре сайтов выполнении заданий  чтении рекламных рассылок&nbsp;</b></i><i><b>а так же на лайках и подписках в социальных сетях &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b></i><i><b>При этом совершенно&nbsp;</b></i><i><b>не обязательно хорошо владеть компьютером&nbsp;</b></i><i><b>разбираться в устройстве&nbsp;</b></i><i><b>социальных сетей  и прочих интернет новшествах&nbsp;</b></i></p><p></p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>РЕКЛАМОДАТЕЛЬ заказывает ту или иную услугу в сервисе\n</i></b></span></font><div><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>настраивает ее\n</i></b></span></font></div><div><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>оплачивает и запускает\n</i></b></span></font></div><div><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>ИСПОЛНИТЕЛИ  через специальную программу для заработка\n</i></b></span></font></div><div><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>выполняют задание и получают за это оплату на внутренний счет в сервисе\n</i></b></span></font></div><div><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>Откуда в любой момент могут вывести деньги на свой электронный кошелек или на сотовый телефон</i></b></span></font></div>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>ИСПОЛНИТЕЛИ  \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>через специальную </i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>программу для заработка \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>выполняют задание и </i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>получают за это оплату \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>на внутренний счет в</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i> сервисе  \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>Откуда в любой момент \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>могут вывести деньги \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>на свой электронный </i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>кошелек</i></b></span></font></p><p></p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>Это позволяет </i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>снять с рекламодателя \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>сложный процесс \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>проверки выполнения </i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>заданий\n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>а для исполнителя \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>делает весь процесс \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>зарабатывания денег \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>практически </i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>автоматическим\n</i></b></span></font></p><p><br></p><p></p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p><i><b>Наше руководство\n</b></i></p><p><i><b>шаг за шагом проведет\n</b></i></p><p><i><b>вас через весь процесс\n</b></i></p><p><i><b>заработка\n</b></i></p><p><i><b>и получения денег\n</b></i></p><p><i><b>Мы стремимся\n</b></i></p><p><i><b>максимально\n</b></i></p><p><i><b>автоматизировать\n</b></i></p><p><i><b>весь процесс\n</b></i></p><p><i><b>как для рекламодателя\n</b></i></p><p><i><b>так и для исполнителя &nbsp;</b></i></p>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-5",
+          "testimonial": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "",
+              "text": "<div><i><b>В сервисе существуют два типа пользователей\n</b></i></div><div><i><b>&nbsp;</b></i></div><div><b>РЕКЛАМОДАТЕЛИ</b></div><div><i><b>это те \n</b></i></div><div><i><b>кто заказывает услуги в сервисе и платит за это деньги</b></i></div><div><i><b><br></b></i></div><div><i><b>\n</b></i></div><div><i><b>\n</b></i></div><div><b>ИСПОЛНИТЕЛИ</b></div><div><i><b>это те \n</b></i></div><div><i><b>кто выполняют задания рекламодателей \n</b></i></div><div><i><b>получая за это </b></i></div><div><i><b>оплату</b></i></div>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><i><b>ИСПОЛНИТЕЛЯМ </b></i></span></font><i><b>предлагаем &nbsp;мы дополнительный заработок на просмотре сайтов выполнении заданий  чтении рекламных рассылок&nbsp;</b></i><i><b>а так же на лайках и подписках в социальных сетях &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b></i><i><b>При этом совершенно&nbsp;</b></i><i><b>не обязательно хорошо владеть компьютером&nbsp;</b></i><i><b>разбираться в устройстве&nbsp;</b></i><i><b>социальных сетей  и прочих интернет новшествах&nbsp;</b></i></p><p></p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>РЕКЛАМОДАТЕЛЬ заказывает ту или иную услугу в сервисе\n</i></b></span></font><div><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>настраивает ее\n</i></b></span></font></div><div><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>оплачивает и запускает\n</i></b></span></font></div><div><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>ИСПОЛНИТЕЛИ  через специальную программу для заработка\n</i></b></span></font></div><div><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>выполняют задание и получают за это оплату на внутренний счет в сервисе\n</i></b></span></font></div><div><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>Откуда в любой момент могут вывести деньги на свой электронный кошелек или на сотовый телефон</i></b></span></font></div>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>ИСПОЛНИТЕЛИ  \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>через специальную </i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>программу для заработка \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>выполняют задание и </i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>получают за это оплату \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>на внутренний счет в</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i> сервисе  \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>Откуда в любой момент \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>могут вывести деньги \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>на свой электронный </i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>кошелек</i></b></span></font></p><p></p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>Это позволяет </i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>снять с рекламодателя \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>сложный процесс \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>проверки выполнения </i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>заданий\n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>а для исполнителя \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>делает весь процесс \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>зарабатывания денег \n</i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>практически </i></b></span></font></p><p><font face=\"Oswald, sans-serif\"><span style=\"font-size: 20px;\"><b><i>автоматическим\n</i></b></span></font></p><p><br></p><p></p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p><i><b>Наше руководство\n</b></i></p><p><i><b>шаг за шагом проведет\n</b></i></p><p><i><b>вас через весь процесс\n</b></i></p><p><i><b>заработка\n</b></i></p><p><i><b>и получения денег\n</b></i></p><p><i><b>Мы стремимся\n</b></i></p><p><i><b>максимально\n</b></i></p><p><i><b>автоматизировать\n</b></i></p><p><i><b>весь процесс\n</b></i></p><p><i><b>как для рекламодателя\n</b></i></p><p><i><b>так и для исполнителя &nbsp;</b></i></p>"
+            }
+          ],
+          "_styles": {
+            ".card-block": {
+              "color": "#0275d8"
+            },
+            ".card-block DIV": {
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".card-block I": {
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".card-block SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".card-block B": {
+              "font-size": "20px"
+            },
+            ".card-block P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Зарегистрироваться &nbsp;в &nbsp;сервисе &nbsp;<br><br>",
+          "text": "<i><b>До 8 000 реальных посетителей ежедневно<br>Отчетность по оплаченной посещаемости сайта нашими пользователями<br>Ежедневная статистика на E-Mail<br>Уведомления о заканчивающемся балансе<br>Оперативную и понимающую службу поддержки&nbsp;</b><br></i><br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://is.gd/eGBgbO\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-left-right mbr-iconfont mbr-iconfont-btn\"></span>REGISTRATION</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "P": {
+              "color": "#0275d8",
+              "text-align": "left"
+            },
+            "B": {
+              "font-size": "21px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1079.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b><i>SEND ME NEWS</i></b>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-protect mbr-iconfont mbr-iconfont-btn\"></span>PRESS</a>",
+          "form": {
+            "action": "https://is.gd/ZmvhX4",
+            "alerts": {
+              "success": "Thank you.... good Luck"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-5",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-size": "25px",
+              "color": "#abdbf2"
+            },
+            ".mbr-section-title I": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#0c0737",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020.kraiton 1|&nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-primary\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-9"
+        }
+      ]
+    },
+    "07.html": {
+      "settings": {
+        "title": "Len1",
+        "meta_descr": "А Вы знаете\nчто заработок в Интернете не столько зависит от способа заработка \nсколько от приемов \nкоторыми \nВы его реализуете\nСобственно в этом и весь секрет\n",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lance-anderson-qdaaasrzhdk-unsplash-2000x1333.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.8"
+          },
+          "title": "КЛУБ <br>ПАРТНЕРОВ ЕВГЕНИЯ ВЕРГУСА\n<div><br></div>",
+          "text": "<b>&nbsp;✅ самые продвинутые техники заработка на партнерских программах&nbsp;<br>✅самые актуальные видеоуроки по работе с партнерками с разбором технических моментов&nbsp;<br>✅лучший опыт с разбором успешных кейсов<br>✅готовые мини-воронки продаж для участников\n<br>✅закрытый телеграм-чат единомышленников<br>✅ежемесячные онлайн-встречи с ответами на вопросы</b><br><br><b>&nbsp;Вы сможете гарантированно заработать по готовым методикам<br>Вы не будете тратить впустую свое время и выкидывать деньги на ветер<br>Вы сможете всегда проверить свою идею на ее реальность</b><br><b><br></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vk.cc/ateUWg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>WELCOME</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#06f906"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            "B": {
+              "font-size": "23px"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          },
+          "_anchor": "header4-a"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "КЛУБ<br> ПАРТНЕРОВ<br> ЕВГЕНИЯ ВЕРГУСА&nbsp;<br><br>",
+          "text": "<b>Никаких экспериментов</b><br><b>ТОЛЬКО РЕЗУЛЬТАТ&nbsp;<br>⭐КЛУБ ПАРТНЕРОВ ЕВГЕНИЯ ВЕРГУСА\n<br>это место где</b><br><b> Вы поверите в себя ...</b><br><b>Когда в твоих руках компас</b><br><b> ты уже не заблудишься и всегда найдешь свой путь...<br></b><br><b><br></b><br><b><br></b>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://is.gd/ZmvhX4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-unlock mbr-iconfont mbr-iconfont-btn\"></span>ONE STEP&nbsp;</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "P": {
+              "color": "#0275d8",
+              "text-align": "left"
+            },
+            "B": {
+              "font-size": "30px",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            }
+          },
+          "_anchor": "msg-box2-c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1079.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#FFF8E0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b><i>SEND ME NEWS</i></b>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-protect mbr-iconfont mbr-iconfont-btn\"></span>PRESS</a>",
+          "form": {
+            "action": "https://is.gd/ZmvhX4",
+            "alerts": {
+              "success": "Thank you.... good Luck"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-title": {
+              "text-align": "right",
+              "font-size": "25px",
+              "color": "#abdbf2"
+            },
+            ".mbr-section-title I": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "form2-d"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#0c0737",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020.kraiton 1|&nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-primary\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-e"
+        }
+      ]
+    }
+  }
+}

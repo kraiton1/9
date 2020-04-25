@@ -1,0 +1,110 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+
+
+
+
+
+
+
+
+#header4-a H1 {
+  color: #000000;
+}
+#header4-a P {
+  color: #5bc0de;
+}
+#header4-a B {
+  font-size: 23px;
+}
+#header4-a .btn {
+  font-family: 'Playfair Display', sans-serif;
+}
+#testimonials1-5 .card-block {
+  color: #0275d8;
+}
+#testimonials1-5 .card-block DIV {
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+}
+#testimonials1-5 .card-block I {
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+#testimonials1-5 .card-block SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#testimonials1-5 .card-block B {
+  font-size: 20px;
+}
+#testimonials1-5 .card-block P {
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+}
+#msg-box2-3 .btn {
+  font-family: 'Bitter', serif;
+}
+#msg-box2-3 P {
+  color: #0275d8;
+  text-align: left;
+}
+#msg-box2-3 B {
+  font-size: 21px;
+  font-family: 'Montserrat', sans-serif;
+}
+#form2-5 .btn {
+  font-size: 15px;
+  font-family: 'Lora', serif;
+}
+#form2-5 .mbr-section-title {
+  text-align: right;
+  font-size: 25px;
+  color: #abdbf2;
+}
+#form2-5 .mbr-section-title I {
+  font-size: 36px;
+}
+
+
+
+
+#header4-a H1 {
+  color: #06f906;
+}
+#header4-a P {
+  color: #000000;
+}
+#header4-a B {
+  font-size: 23px;
+}
+#header4-a .btn {
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box2-c .btn {
+  font-family: 'Bitter', serif;
+}
+#msg-box2-c P {
+  color: #0275d8;
+  text-align: left;
+}
+#msg-box2-c B {
+  font-size: 30px;
+  font-family: 'Roboto Slab', serif;
+}
+#form2-d .btn {
+  font-size: 15px;
+  font-family: 'Lora', serif;
+}
+#form2-d .mbr-section-title {
+  text-align: right;
+  font-size: 25px;
+  color: #abdbf2;
+}
+#form2-d .mbr-section-title I {
+  font-size: 36px;
+}
